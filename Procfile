@@ -1,0 +1,1 @@
+web: gunicorn dj_logistic.wsgi --log-file -
